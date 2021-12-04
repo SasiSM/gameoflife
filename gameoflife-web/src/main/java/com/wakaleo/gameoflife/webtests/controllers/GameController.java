@@ -18,7 +18,7 @@ import com.wakaleo.gameoflife.domain.Universe;
  * Controller to navigate the buttons on the game pages
  * new commit on github-testing
  * new commit on me
- * new commit in jenkins test
+ * new commit test jenkins
  */
 @Controller
 @RequestMapping("/game")
